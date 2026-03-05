@@ -1,1 +1,2 @@
 # Task Management System
+This Lab is about a task management system that allows users to add tasks, mark tasks as complete, view pending tasks, and track their progress. It mainly uses dictionaries as the data structure and implements its creation, access and updating of its items using functions in Python.
